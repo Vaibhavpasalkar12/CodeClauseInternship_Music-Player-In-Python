@@ -7,3 +7,6 @@ The project is a simple music player built using Python, which allows users to s
 3) pygame
 4) os
 5) filedialog
+
+
+![Image](https://github.com/Vaibhavpasalkar12/CodeClauseInternship_Music-Player-In-Python/raw/main/ss.png)
